@@ -1,0 +1,119 @@
+[
+  {
+    "Governorate": "Al-Sharqia Governorate",
+    "Hb <9": 15,
+    "Hb 9-9.9": 12,
+    "Hb 10-10.9": 4,
+    "Hb 11-11.99": 2,
+    "Hb 12-12.99": 0,
+    "Hb >=13": 0
+  },
+  {
+    "Governorate": "Alexandria Governorate",
+    "Hb <9": 86,
+    "Hb 9-9.9": 86,
+    "Hb 10-10.9": 71,
+    "Hb 11-11.99": 50,
+    "Hb 12-12.99": 23,
+    "Hb >=13": 11
+  },
+  {
+    "Governorate": "Aswan Governorate",
+    "Hb <9": 36,
+    "Hb 9-9.9": 24,
+    "Hb 10-10.9": 24,
+    "Hb 11-11.99": 16,
+    "Hb 12-12.99": 5,
+    "Hb >=13": 4
+  },
+  {
+    "Governorate": "Beni Suef",
+    "Hb <9": 50,
+    "Hb 9-9.9": 36,
+    "Hb 10-10.9": 20,
+    "Hb 11-11.99": 7,
+    "Hb 12-12.99": 2,
+    "Hb >=13": 1
+  },
+  {
+    "Governorate": "Cairo Governorate",
+    "Hb <9": 19,
+    "Hb 9-9.9": 22,
+    "Hb 10-10.9": 28,
+    "Hb 11-11.99": 21,
+    "Hb 12-12.99": 9,
+    "Hb >=13": 10
+  },
+  {
+    "Governorate": "Dakahlia Governorate",
+    "Hb <9": 30,
+    "Hb 9-9.9": 17,
+    "Hb 10-10.9": 24,
+    "Hb 11-11.99": 22,
+    "Hb 12-12.99": 11,
+    "Hb >=13": 4
+  },
+  {
+    "Governorate": "Gharbia Governorate",
+    "Hb <9": 36,
+    "Hb 9-9.9": 59,
+    "Hb 10-10.9": 44,
+    "Hb 11-11.99": 44,
+    "Hb 12-12.99": 8,
+    "Hb >=13": 7
+  },
+  {
+    "Governorate": "Giza Governorate",
+    "Hb <9": 0,
+    "Hb 9-9.9": 0,
+    "Hb 10-10.9": 2,
+    "Hb 11-11.99": 1,
+    "Hb 12-12.99": 2,
+    "Hb >=13": 2
+  },
+  {
+    "Governorate": "Ismailia Governorate",
+    "Hb <9": 31,
+    "Hb 9-9.9": 24,
+    "Hb 10-10.9": 27,
+    "Hb 11-11.99": 27,
+    "Hb 12-12.99": 6,
+    "Hb >=13": 4
+  },
+  {
+    "Governorate": "Menoufia",
+    "Hb <9": 0,
+    "Hb 9-9.9": 1,
+    "Hb 10-10.9": 0,
+    "Hb 11-11.99": 0,
+    "Hb 12-12.99": 1,
+    "Hb >=13": 0
+  },
+  {
+    "Governorate": "Minya Governorate",
+    "Hb <9": 21,
+    "Hb 9-9.9": 28,
+    "Hb 10-10.9": 13,
+    "Hb 11-11.99": 0,
+    "Hb 12-12.99": 0,
+    "Hb >=13": 0
+  },
+  {
+    "Governorate": "Sohag Governorate",
+    "Hb <9": 15,
+    "Hb 9-9.9": 13,
+    "Hb 10-10.9": 3,
+    "Hb 11-11.99": 0,
+    "Hb 12-12.99": 3,
+    "Hb >=13": 2
+  },
+  {
+    "Governorate": "Suez Governorate",
+    "Hb <9": 1,
+    "Hb 9-9.9": 0,
+    "Hb 10-10.9": 0,
+    "Hb 11-11.99": 1,
+    "Hb 12-12.99": 0,
+    "Hb >=13": 0
+  }
+]
